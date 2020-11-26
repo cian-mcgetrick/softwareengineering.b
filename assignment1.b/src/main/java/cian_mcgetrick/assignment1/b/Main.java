@@ -1,8 +1,6 @@
 package cian_mcgetrick.assignment1.b;
 
-import cian_mcgetrick.assignment1.Course;
-import cian_mcgetrick.assignment1.Module;
-import cian_mcgetrick.assignment1.Student;
+
 
 public class Main {
 
